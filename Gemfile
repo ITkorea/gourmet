@@ -24,9 +24,12 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'carrierwave'
+<<<<<<< HEAD
 
 gem 'mini_magick'
 
+=======
+>>>>>>> 5c3752fc8a6f435ff20b511e7e999b5fa870bf9b
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
